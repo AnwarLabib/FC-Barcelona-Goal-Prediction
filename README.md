@@ -12,3 +12,6 @@ A simple linear regression model was used to predict the number of goals FC Barc
 
 # Jupyter Notebook
 All the mentioned work is done in one Jupyter Notebook that is well organized named "barca_goals_prediction.ipynb"
+
+# Powerpoint Presentation
+A powerpoint presentation that briefly explains our project is in the repository and the it is named "Presentation.odp"
