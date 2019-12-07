@@ -11,5 +11,4 @@ In order to use the attributes mentioned above, we had to do some data cleaning 
 A simple linear regression model was used to predict the number of goals FC Barcelona will score. **sklearn** library was used in order to train and test the model.
 
 # Jupyter Notebook
-All the mentioned work is done in one Jupyter Notebook that is well organized.
-
+All the mentioned work is done in one Jupyter Notebook that is well organized named "barca_goals_prediction.ipynb"
